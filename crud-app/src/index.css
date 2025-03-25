@@ -1,7 +1,7 @@
 /* Define o estilo geral da página */
 body {
   font-family: Arial, sans-serif; /* Define a fonte para Arial */
-  background: black; /* Cor de fundo suave */
+  background: red; /* Cor de fundo suave */
   padding: 40px; /* Espaçamento interno nas bordas da página */
 }
 
