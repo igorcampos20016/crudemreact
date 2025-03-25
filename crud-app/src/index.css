@@ -47,7 +47,7 @@ button {
 
 /* Botão de editar */
 button.editar {
-  background-color: red; /* Cor de fundo amarela */
+  background-color: yellow; /* Cor de fundo amarela */
   color: black; /* Texto preto */
   margin-right: 5px; /* Espaço à direita para separar do botão excluir */
 }
